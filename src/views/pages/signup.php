@@ -14,7 +14,7 @@
     </header>
     <section class="container main">
 
-        <form method="POST" action="<?= $base; ?>/login">
+        <form method="POST" action="<?= $base; ?>/cadastro">
 
             <?php if (!empty($flash)): ?>
 
